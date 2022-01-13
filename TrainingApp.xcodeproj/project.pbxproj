@@ -14,6 +14,7 @@
 		91FA8D68278DA9AE004A24E1 /* TrainingAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91FA8D67278DA9AE004A24E1 /* TrainingAppTests.swift */; };
 		91FA8D72278DA9AE004A24E1 /* TrainingAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91FA8D71278DA9AE004A24E1 /* TrainingAppUITests.swift */; };
 		91FA8D74278DA9AE004A24E1 /* TrainingAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91FA8D73278DA9AE004A24E1 /* TrainingAppUITestsLaunchTests.swift */; };
+		91FA8D8127906F62004A24E1 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91FA8D8027906F62004A24E1 /* MenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		91FA8D6D278DA9AE004A24E1 /* TrainingAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrainingAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		91FA8D71278DA9AE004A24E1 /* TrainingAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainingAppUITests.swift; sourceTree = "<group>"; };
 		91FA8D73278DA9AE004A24E1 /* TrainingAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainingAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		91FA8D8027906F62004A24E1 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				91FA8D56278DA9AA004A24E1 /* TrainingAppApp.swift */,
+				91FA8D8027906F62004A24E1 /* MenuView.swift */,
 				91FA8D58278DA9AA004A24E1 /* ContentView.swift */,
 				91FA8D5A278DA9AD004A24E1 /* Assets.xcassets */,
 				91FA8D5C278DA9AD004A24E1 /* Preview Content */,
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				91FA8D59278DA9AA004A24E1 /* ContentView.swift in Sources */,
+				91FA8D8127906F62004A24E1 /* MenuView.swift in Sources */,
 				91FA8D57278DA9AA004A24E1 /* TrainingAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
